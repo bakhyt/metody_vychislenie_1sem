@@ -1,0 +1,2 @@
+# metody_vychislenie_1sem
+metody_vychislenie_1-sem
